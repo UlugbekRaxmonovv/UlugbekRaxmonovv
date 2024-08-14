@@ -1,7 +1,7 @@
 
 
 
-<h1  align="center">Hi🖐,I'am  Raxmonov Ulug'bek</h1>
+<h1  align="center"></h1>
 
 
 
