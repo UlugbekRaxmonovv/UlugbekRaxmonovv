@@ -1,16 +1,16 @@
-<h1 align="center">I'am Ulug'bek🖐</h1>
+<h1 align="center">Salom, men Ulug'bek Raxmonovman 🖐</h1>
 
 <!--
 **UlugbekRaxmonovv/UlugbekRaxmonovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Mana sizni tanishtiradigan ba'zi g'oyalar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Hozirda ishlayotgan loyiham: [loyiha nomi]
+- 🌱 Hozirda o'rganayotgan texnologiyam: [texnologiya nomi]
+- 👯 Hamkorlik qilishni xohlayman: [hamkorlik qilmoqchi bo'lgan soha]
+- 🤔 Yordam so'rash niyatim bor: [muammo yoki savol]
+- 💬 Mendan so'rang: [qiziqishingiz bo'yicha]
+- 📫 Menga qanday yetishish mumkin: [elektron pochta yoki ijtimoiy tarmoq manzillari]
+- 😄 Olma shiori: [shior yoki hazil]
+- ⚡ Qiziqarli fakt: [o'zingiz haqingizda qiziqarli ma'lumot]
 -->
