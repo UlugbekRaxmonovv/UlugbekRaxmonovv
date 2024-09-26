@@ -4,18 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khab1bull0&label=Profile%20views&color=0e75b6&style=flat" alt="habibullo" /> </p>
 
-- 🌱 I am an developer JavaScript (ES6+),  TypeScript,  NodeJS,  ExpressJS,  NestJS,  MongoDB, Mongoose,  PostgreSQL,  Sequelize, Prisma,  API /Rest-API, JWT, Authentication and RBAS, Git/Github,  HTML, CSS
+- 🌱 I am an developer JavaScript (ES6+),HTML, CSS, Sass, TypeScript, Javascript, React.js ,Redux, Redux toolkit,  Zustand, Git/Github,   
 
 - 📝 I regularly write articles on [http://t.me/USTechblog](http://t.me/USTechBlog)
 
-- 💬 Ask me about JavaScript, NodeJS, Express, MongoDB and others
+- 💬 Ask me about JavaScript, React.js, Redux, and others
 
-- 📫 How to reach me habibullotoyrilmasov@gmail.com
+- 📫 How to reach me rahmonovulugbek20042004@gmail.com
 
 <p align="left">
 <h2 align="left">Connect with me:</h2>
-<a href="https://linkedin.com/in/habibull0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuldoshevuz" height="40" width="40" /></a>
-<a href="https://instagram.com/khabibullo_880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuldoshev__uz" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/ulug%CA%BBbek-raxmonov-36967130a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuldoshevuz" height="40" width="40" /></a>
+
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
