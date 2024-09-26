@@ -6,7 +6,7 @@
 
 - 🌱 I am an developer JavaScript (ES6+),HTML, CSS, Sass, TypeScript, Javascript, React.js ,Redux, Redux toolkit,  Zustand, Git/Github,   
 
-- 📝 I regularly write articles on [http://t.me/USTechblog](http://t.me/USTechBlog)
+- 📝 I regularly write articles on https://t.me/Reactjjs
 
 - 💬 Ask me about JavaScript, React.js, Redux, and others
 
@@ -15,8 +15,10 @@
 <p align="left">
 <h2 align="left">Connect with me:</h2>
 <a href="https://www.linkedin.com/in/ulug%CA%BBbek-raxmonov-36967130a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuldoshevuz" height="40" width="40" /></a>
-
+<a href=" http://t.me/Mumusliim" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2021/10/Telegram-icon-on-transparent-background-PNG.png" alt="yuldoshevuz" height="40" width="40" /></a>
 </p>
+
+
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
