@@ -15,7 +15,7 @@
 <p align="left">
 <h2 align="left">Connect with me:</h2>
 <a href="https://www.linkedin.com/in/ulug%CA%BBbek-raxmonov-36967130a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuldoshevuz" height="40" width="40" /></a>
-<a href=" http://t.me/Mumusliim" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2021/10/Telegram-icon-on-transparent-background-PNG.png" alt="yuldoshevuz" height="40" width="40" /></a>
+<a href="http://t.me/Mumusliim" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2021/10/Telegram-icon-on-transparent-background-PNG.png" alt="yuldoshevuz" height="40" width="40" /></a>
 </p>
 
 
