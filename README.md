@@ -29,7 +29,7 @@
 <a href="#"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstra" width="50" height="50"/> </a> 
 <a href="#"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThwbRH8dZHkXXXbZAowG0UA2_jDH9cnQ0fjQ&s" alt="express" width="50" height="50"/> </a>
 <a href="#"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ROtPTdQZE4JWt3wKm5q2GmpDKcRJ4C1gaA&s" alt="git" width="50" height="50"/> </a>
-<a href="#"> <img src="https://images.ctfassets.net/c63hsprlvlya/IacLLeOBR5WCvdCPqKuff/6860b5cc464c4f54703a2befa3f706b4/nextjs3.webp" alt="nestjs" width="40" height="40"/> </a> 
+<a href="#"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVaE_511AxI6dNC44qG28fSnw8-cYKz7F1QuTGmzcUYCv2ukAylxSfK5O-pFteCzTh48Y&usqp=CAU" alt="nestjs" width="40" height="40"/> </a> 
 <a href="#"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIx6VZfS41hOuMxd_WU1Uno_ds_ofaqCX4qg&s" alt="postman" width="40" height="40"/> </a> 
 <a href="#"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKxmm4EoUsdCh--TvGvcA4V79GHO6ID64_rQhRWKSFZ78EeovKjdNZkzgX4OTXYfXAY-0&usqp=CAU" alt="swagger" width="50" height="50"/> </a>
 <a href="#"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1MndL-Xp1JcnqaB0YOqTp6zDjrwYyGKsPA&s" alt="git" width="40" height="40"/> </a>
