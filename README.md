@@ -25,6 +25,9 @@
 
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
+<a href="#"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR01L6Jq6BvPIjmhTliTvigg2nAADj_Z-cfPw&s" alt="css3" width="50" height="50"/> </a> 
+<a href="#"> <img src="https://miro.medium.com/v2/resize:fit:1200/0*mDEiFesqMg89ObMS.jpeg" alt="css3" width="50" height="50"/> </a> 
+
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
 <a href="#"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstra" width="50" height="50"/> </a> 
 <a href="#"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThwbRH8dZHkXXXbZAowG0UA2_jDH9cnQ0fjQ&s" alt="express" width="50" height="50"/> </a>
