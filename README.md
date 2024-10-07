@@ -26,13 +26,13 @@
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/> </a> 
-<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50"/> </a>
-<a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="git" width="50" height="50"/> </a>
+<a href="#"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstra" width="50" height="50"/> </a> 
+<a href="#"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThwbRH8dZHkXXXbZAowG0UA2_jDH9cnQ0fjQ&s" alt="express" width="50" height="50"/> </a>
+<a href="#"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ROtPTdQZE4JWt3wKm5q2GmpDKcRJ4C1gaA&s" alt="git" width="50" height="50"/> </a>
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/> </a> 
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="50" height="50"/> </a>
-<a href="#"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="#"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIx6VZfS41hOuMxd_WU1Uno_ds_ofaqCX4qg&s" alt="postman" width="40" height="40"/> </a> 
+<a href="#"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSllvteTQrlItSC2Gv3zicplG0Zx5wVFADsrA&s" alt="swagger" width="50" height="50"/> </a>
+<a href="#"> <img src="https://additionalknowledge.com/wp-content/uploads/2020/07/reactjs.jpg" alt="git" width="40" height="40"/> </a>
 
 
 </p>
