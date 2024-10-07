@@ -32,7 +32,7 @@
 <a href="#"> <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/> </a> 
 <a href="#"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIx6VZfS41hOuMxd_WU1Uno_ds_ofaqCX4qg&s" alt="postman" width="40" height="40"/> </a> 
 <a href="#"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSllvteTQrlItSC2Gv3zicplG0Zx5wVFADsrA&s" alt="swagger" width="50" height="50"/> </a>
-<a href="#"> <img src="https://additionalknowledge.com/wp-content/uploads/2020/07/reactjs.jpg" alt="git" width="40" height="40"/> </a>
+<a href="#"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1MndL-Xp1JcnqaB0YOqTp6zDjrwYyGKsPA&s" alt="git" width="40" height="40"/> </a>
 
 
 </p>
