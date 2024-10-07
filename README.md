@@ -28,7 +28,7 @@
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
 <a href="#"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstra" width="50" height="50"/> </a> 
 <a href="#"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThwbRH8dZHkXXXbZAowG0UA2_jDH9cnQ0fjQ&s" alt="express" width="50" height="50"/> </a>
-<a href="#"> <img src="https://media.licdn.com/dms/image/D4E12AQFGtCLzryEsvQ/article-cover_image-shrink_720_1280/0/1683961037831?e=2147483647&v=beta&t=ZCCnGgCZCv_v08kv8-JhZ0gnYdyq6aOi3NOBT8HEgDY" alt="git" width="50" height="50"/> </a>
+<a href="#"> <img src="https://miro.medium.com/v2/resize:fit:1200/1*8vDTQKhEmn_2_TVZ-u8mQw.jpeg" alt="git" width="50" height="50"/> </a>
 <a href="#"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVaE_511AxI6dNC44qG28fSnw8-cYKz7F1QuTGmzcUYCv2ukAylxSfK5O-pFteCzTh48Y&usqp=CAU" alt="nestjs" width="40" height="40"/> </a> 
 <a href="#"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIx6VZfS41hOuMxd_WU1Uno_ds_ofaqCX4qg&s" alt="postman" width="40" height="40"/> </a> 
 <a href="#"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKxmm4EoUsdCh--TvGvcA4V79GHO6ID64_rQhRWKSFZ78EeovKjdNZkzgX4OTXYfXAY-0&usqp=CAU" alt="swagger" width="50" height="50"/> </a>
